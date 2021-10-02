@@ -1,0 +1,17 @@
+main: us.whatisasheep.battle.Battle
+name: Battle
+version: 1.0-SNAPSHOT
+author: WhatIsASheep
+description: Im just that epic
+api-version: 1.16
+commands:
+  enderchest:
+    description: Opens the players enderchest.
+    usage: /<command>
+    aliases: ec
+  fly:
+    description: Allows the player to fly.
+    usage: /<command>
+  battle:
+    description: Main command for all battling.
+    usage: /<command>

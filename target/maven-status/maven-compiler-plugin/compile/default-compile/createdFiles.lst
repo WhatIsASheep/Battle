@@ -1,0 +1,17 @@
+us\whatisasheep\battle\battle\guis\BattleGUI.class
+us\whatisasheep\battle\battle\listners\OnJoinLeave.class
+us\whatisasheep\battle\battle\guis\TankGUI.class
+us\whatisasheep\battle\battle\listners\OnDeathRespawn.class
+us\whatisasheep\battle\battle\BattleGame.class
+us\whatisasheep\battle\battle\guis\ClassGUI.class
+us\whatisasheep\battle\battle\BattleGame$1.class
+us\whatisasheep\battle\battle\cmds\BattleCMDs.class
+us\whatisasheep\battle\battle\BattleGame$2.class
+us\whatisasheep\battle\cmds\EnderChest.class
+us\whatisasheep\battle\battle\BattleGameManager$1.class
+us\whatisasheep\battle\Battle.class
+us\whatisasheep\battle\battle\BattleGameManager.class
+us\whatisasheep\battle\battle\guis\ArcherGUI.class
+us\whatisasheep\battle\cmds\Fly.class
+us\whatisasheep\battle\battle\guis\SwordsmanGUI.class
+us\whatisasheep\battle\battle\listners\OnInteractDrop.class
